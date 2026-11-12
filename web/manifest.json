@@ -1,0 +1,11 @@
+{
+  "name": "Prato Circular",
+  "short_name": "Prato Circular",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F6ED",
+  "theme_color": "#123526",
+  "description": "Conecta excedentes de alimentos a ONGs.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
