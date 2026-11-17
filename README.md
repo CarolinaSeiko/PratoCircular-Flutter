@@ -202,10 +202,10 @@ flutter test
 ## Galeria de Telas
 
 ### Cadastro
-![Cadastro](docs/screenshots/cadForm.png)
+![Cadastro](docs/screenshots/cadForn.png)
 
 ### Cadastro - Endereço
-![Cadastro Endereço](docs/screenshots/cadForm2.png)
+![Cadastro Endereço](docs/screenshots/cadForn2.png)
 
 ### Login
 ![Login](docs/screenshots/login.png)
@@ -248,4 +248,3 @@ flutter test
 
 ### Splash 3
 ![Splash 3](docs/screenshots/splash3.png)
-
