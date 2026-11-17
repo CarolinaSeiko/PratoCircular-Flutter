@@ -249,8 +249,3 @@ flutter test
 ### Splash 3
 ![Splash 3](docs/screenshots/splash3.png)
 
-### Perfil
-![Perfil](docs/screenshots/perfil.png)
-
-### Splash
-![Splash](docs/screenshots/splash.png)
