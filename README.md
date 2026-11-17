@@ -201,32 +201,53 @@ flutter test
 ```
 ## Galeria de Telas
 
-### Home - Fornecedor
-![Home Fornecedor](docs/screenshots/home_fornecedor.png)
-
-### Home - ONG
-![Home ONG](docs/screenshots/home_ong.png)
-
 ### Cadastro
-![Cadastro](docs/screenshots/cadastro.png)
+![Cadastro](docs/screenshots/cadForm.png)
+
+### Cadastro - Endereço
+![Cadastro Endereço](docs/screenshots/cadForm2.png)
 
 ### Login
 ![Login](docs/screenshots/login.png)
 
+### Home - Fornecedor
+![Home Fornecedor](docs/screenshots/homeForn.png)
+
+### Home - Fornecedor - Resumo
+![Home Fornecedor Resumo](docs/screenshots/homeForm3.png)
+
+### Home - ONG
+![Home ONG](docs/screenshots/homeONG.png)
+
 ### Todas as Doações
-![Todas as Doações](docs/screenshots/todas_doacoes.png)
+![Todas as Doações](docs/screenshots/TodasDoacao.png)
 
 ### Detalhes da Doação
-![Detalhes da Doação](docs/screenshots/detalhes_doacao.png)
+![Detalhes da Doação](docs/screenshots/DetalhesDoacao.png)
 
-### Cadastro e Edição de Doação
-![Formulário de Doação](docs/screenshots/doacao_form.png)
+### Cadastro de Doação
+![Cadastro de Doação](docs/screenshots/doacaoForn.png)
 
 ### Favoritos
-![Favoritos](docs/screenshots/favoritos.png)
+![Favoritos](docs/screenshots/Favoritos.png)
 
 ### Impacto
-![Impacto](docs/screenshots/impacto.png)
+![Impacto](docs/screenshots/Impacto.png)
+
+### Impacto - Indicadores
+![Impacto Indicadores](docs/screenshots/Impacto2.png)
+
+### Perfil
+![Perfil](docs/screenshots/meuPerfil.png)
+
+### Splash 1
+![Splash 1](docs/screenshots/splash1.png)
+
+### Splash 2
+![Splash 2](docs/screenshots/splash2.png)
+
+### Splash 3
+![Splash 3](docs/screenshots/splash3.png)
 
 ### Perfil
 ![Perfil](docs/screenshots/perfil.png)
