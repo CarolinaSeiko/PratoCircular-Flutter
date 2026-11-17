@@ -201,50 +201,50 @@ flutter test
 ```
 ## Galeria de Telas
 
-### Cadastro
-![Cadastro](docs/screenshots/cadForn.png)
-
-### Cadastro - Endereço
-![Cadastro Endereço](docs/screenshots/cadForn2.png)
-
-### Login
-![Login](docs/screenshots/login.png)
-
-### Home - Fornecedor
-![Home Fornecedor](docs/screenshots/homeForn.png)
-
-### Home - Fornecedor - Resumo
-![Home Fornecedor Resumo](docs/screenshots/homeForm3.png)
-
-### Home - ONG
-![Home ONG](docs/screenshots/homeONG.png)
-
-### Todas as Doações
-![Todas as Doações](docs/screenshots/TodasDoacao.png)
-
-### Detalhes da Doação
-![Detalhes da Doação](docs/screenshots/DetalhesDoacao.png)
-
-### Cadastro de Doação
-![Cadastro de Doação](docs/screenshots/doacaoForn.png)
-
-### Favoritos
-![Favoritos](docs/screenshots/Favoritos.png)
-
-### Impacto
-![Impacto](docs/screenshots/Impacto.png)
-
-### Impacto - Indicadores
-![Impacto Indicadores](docs/screenshots/Impacto2.png)
-
-### Perfil
-![Perfil](docs/screenshots/meuPerfil.png)
-
-### Splash 1
+### 1. Splash 1
 ![Splash 1](docs/screenshots/splash1.png)
 
-### Splash 2
+### 2. Splash 2
 ![Splash 2](docs/screenshots/splash2.png)
 
-### Splash 3
+### 3. Splash 3
 ![Splash 3](docs/screenshots/splash3.png)
+
+### 4. Login
+![Login](docs/screenshots/login.png)
+
+### 5. Cadastro
+![Cadastro](docs/screenshots/cadForn.png)
+
+### 6. Cadastro - Endereço
+![Cadastro Endereço](docs/screenshots/cadForn2.png)
+
+### 7. Home - Fornecedor
+![Home Fornecedor](docs/screenshots/homeForn.png)
+
+### 8. Home - Fornecedor - Resumo
+![Home Fornecedor Resumo](docs/screenshots/homeForm3.png)
+
+### 9. Home - ONG
+![Home ONG](docs/screenshots/homeONG.png)
+
+### 10. Todas as Doações
+![Todas as Doações](docs/screenshots/TodasDoacao.png)
+
+### 11. Cadastro de Doação
+![Cadastro de Doação](docs/screenshots/doacaoForn.png)
+
+### 12. Detalhes da Doação
+![Detalhes da Doação](docs/screenshots/DetalhesDoacao.png)
+
+### 13. Favoritos
+![Favoritos](docs/screenshots/Favoritos.png)
+
+### 14. Impacto
+![Impacto](docs/screenshots/Impacto.png)
+
+### 15. Impacto - Indicadores
+![Impacto Indicadores](docs/screenshots/Impacto2.png)
+
+### 16. Perfil
+![Perfil](docs/screenshots/meuPerfil.png)
