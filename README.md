@@ -199,6 +199,64 @@ Execute:
 ```bash
 flutter test
 ```
+
+
+## Como executar o projeto
+
+### 1. Clonar o repositório
+
+No terminal, execute:
+
+```bash
+git clone https://github.com/CarolinaSeiko/PratoCircular-Flutter.git
+```
+
+### 2. Entrar na pasta do projeto
+
+```bash
+cd PratoCircular-Flutter
+```
+
+### 3. Instalar as dependências
+
+```bash
+flutter pub get
+```
+
+### 4. Verificar o projeto
+
+```bash
+flutter analyze
+```
+
+### 5. Executar os testes
+
+```bash
+flutter test
+```
+
+
+
+### 6. Executar o aplicativo
+
+Para executar utilize o Windows :
+
+```bash
+flutter run -d windows
+```
+
+
+### Sequência rápida
+
+Após clonar o projeto, os principais comandos são:
+
+```bash
+flutter pub get
+flutter analyze
+flutter test
+flutter run  -d windows
+```
+
 ## Galeria de Telas
 
 ### 1. Splash 1
